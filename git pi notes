@@ -1,0 +1,10 @@
+cd ~
+cd D:\pi
+git clone git://github.com/CamJam-EduKit/EduKit2.git
+
+
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/xhajekt/RaspPiPico.git
+git push -u origin main
+..
